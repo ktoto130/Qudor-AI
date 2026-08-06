@@ -1,0 +1,2 @@
+iteration,stage,games,positions,replay,games_per_sec,positions_per_sec,avg_length,policy_loss,value_loss,total_loss,seconds,device,vram_mb
+0,pretrain,2,60,60,0.5512634208752164,16.537902626256493,30.0,5.328798770904541,0.0006261624512262642,5.329424933355767,3.7651538848876953,cpu,0

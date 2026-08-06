@@ -1,0 +1,16 @@
+{
+  "iteration": 0,
+  "stage": "pretrain",
+  "games": 2,
+  "positions": 60,
+  "replay": 60,
+  "games_per_sec": 0.5512634208752164,
+  "positions_per_sec": 16.537902626256493,
+  "avg_length": 30.0,
+  "policy_loss": 5.328798770904541,
+  "value_loss": 0.0006261624512262642,
+  "total_loss": 5.329424933355767,
+  "seconds": 3.7651538848876953,
+  "device": "cpu",
+  "vram_mb": 0
+}

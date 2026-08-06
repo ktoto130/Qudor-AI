@@ -1,0 +1,1 @@
+{"seed":42,"iterations":500,"games":96,"max_plies":220,"inference_batch":512,"steps":80,"batch":1024,"replay":500000,"checkpoint_replay":25000,"channels":96,"blocks":8,"lr":0.0002}
